@@ -1,0 +1,84 @@
+/* 4 Home Logo */ 
+.home_4mainlogo_style {
+    text-align: center;
+    margin: 10px;
+    width: 50%;
+} 
+
+/* Taraki Logo */ 
+.home_Tarakilogo_style {
+    text-align: center;
+    margin: 10px;
+    width: 55%;
+}
+
+/* Proceed Button */ 
+.buttons-container {
+    position: fixed;
+    bottom: 60px; /* Position it just above the footer */
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Footer */ 
+.footer_onedost {
+    width: 50%;
+    margin-top: 25px;
+}
+.footer_science {
+    width: 40%;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(115, 189, 35);
+    text-align: center;
+}
+.f-margin {
+    margin-top: 20px;
+}
+
+/* Video Background */ 
+.video-background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+}
+
+/* Border */
+.t-border {
+    border: 2px solid #a3a0a0; /* light gray border */
+    border-radius: 5px;     /* rounded corners */
+    padding: 5px;  
+}
+
+/* Always Show Scroll Bar */
+html { 
+    overflow-y: scroll;
+}
+
+/* Zoom Effect */
+.zoom-effect {
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+}
+.zoom-effect:hover {
+    transform: scale(1.1); /* Zoom by 10% */
+}
+
+.col-2 {
+    text-align: center;
+}
+.col-3 {
+    text-align: center;
+}
+.col-12 {
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+/* Back Button */ 
+.buttons-container {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 60px;
+}
+
+/* Footer */ 
+.footer_onedost {
+    width: 50%;
+    margin-top: 25px;
+}
+.footer_science {
+    width: 40%;
+}
+.f-margin {
+    margin-top: 20px;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(115, 189, 35);
+    text-align: center;
+}
+
+/* Video Background */
+.video-background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+}
+
+/* Always Show Scroll Bar */
+html {
+    overflow-y: scroll;
+}
+
+.col-3 {
+    text-align: center;
+}
+.col-4 {
+    text-align: center;
+}
+.col-6 {
+    text-align: center;
+}
+.col-12 {
+    text-align: center;
+}

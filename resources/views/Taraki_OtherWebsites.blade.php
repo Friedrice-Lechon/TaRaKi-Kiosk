@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col-5 text-center">
                 <a href="https://georisk.gov.ph/">
-                    <img src="{{ asset('images/GeoRiskPH.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/GeoRiskPH.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
 
@@ -29,7 +29,7 @@
 
             <div class="col-5  text-center">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
         </div>
@@ -42,7 +42,7 @@
         <div class="row">
             <div class="col-5  text-center">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
 
@@ -52,7 +52,7 @@
 
             <div class="col-5  text-center">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
         </div>
@@ -65,7 +65,7 @@
         <div class="row">
             <div class="col-5  text-center">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
 
@@ -75,7 +75,7 @@
 
             <div class="col-5  text-center">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="col-w zoom-effect" >
                 </a>
             </div>
         </div>

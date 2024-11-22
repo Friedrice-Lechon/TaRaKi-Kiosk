@@ -17,25 +17,25 @@
 
             <div class="col-3">
                 <a href="https://car.dost.gov.ph/">
-                    <img src="{{ asset('images/DOST-CAR.png') }}" class="home_4mainlogo_style t-border zoom-effect" >
+                    <img src="{{ asset('images/DOST-CAR.png') }}" class="home_4mainlogo_style zoom-effect" >
                 </a>
             </div>
 
             <div class="col-3">
                 <a href="https://www.facebook.com/DOST.Abra.Official/">
-                    <img src="{{ asset('images/PLGU-ABRA.png') }}" class="home_4mainlogo_style t-border zoom-effect">
+                    <img src="{{ asset('images/PLGU-ABRA.png') }}" class="home_4mainlogo_style zoom-effect">
                 </a>
             </div>
 
             <div class="col-3">
                 <a href="https://www.facebook.com/civildefensePH/">
-                    <img src="{{ asset('images/OCD-CAR.png') }}" class="home_4mainlogo_style t-border zoom-effect">
+                    <img src="{{ asset('images/OCD-CAR.png') }}" class="home_4mainlogo_style zoom-effect">
                 </a>
             </div>
 
             <div class="col-3">
                 <a href="https://www.bagongpilipinastayo.com/">
-                    <img src="{{ asset('images/Bagong_Pilipinas_logo.png') }}" class="home_4mainlogo_style t-border zoom-effect">
+                    <img src="{{ asset('images/Bagong_Pilipinas_logo.png') }}" class="home_4mainlogo_style zoom-effect">
                 </a>
             </div>
 

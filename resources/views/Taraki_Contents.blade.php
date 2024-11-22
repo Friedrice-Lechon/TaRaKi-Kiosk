@@ -17,19 +17,19 @@
 
             <div class="col-4">
                 <a href="https://drrmis.dostcar.ph/">
-                    <img src="{{ asset('images/DRRMIS Logo.png') }}" class="t-border zoom-effect" style="width:100%">
+                    <img src="{{ asset('images/DRRMIS Logo.png') }}" class="zoom-effect" style="width:100%">
                 </a>
             </div>
 
             <div class="col-4">
                 <a href="https://landslidekm.dostcar.ph/">
-                    <img src="{{ asset('images/LKMC Fit2.png') }}" class="t-border zoom-effect" style="width:100%">
+                    <img src="{{ asset('images/LKMC Fit2.png') }}" class="zoom-effect" style="width:100%">
                 </a>
             </div>
 
             <div class="col-4">
                 <a href="https://starbooks.ph/home">
-                    <img src="{{ asset('images/DOST-STARBOOKS.png') }}" class="t-border zoom-effect" style="width:100%">
+                    <img src="{{ asset('images/DOST-STARBOOKS.png') }}" class="zoom-effect" style="width:100%">
                 </a>
             </div>
 
